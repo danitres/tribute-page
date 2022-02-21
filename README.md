@@ -1,2 +1,2 @@
 # tribute-page
-this my project for freecodeacademy
+this my project first for freecodeacademy (tribute page)
